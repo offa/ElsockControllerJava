@@ -2,6 +2,8 @@
 
 A controller library for [Elsock](https://github.com/forflo/arduino_elsock)-devices.
 
+**Note:** There's also a ***C++*** version: [Elsock Controller Cpp](https://github.com/offa/ElsockControllerCpp)
+
 ## Requirements
 
  * **JDK 7+** - Not tested with JDK6 or earlier
