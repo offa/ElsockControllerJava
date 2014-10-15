@@ -1,4 +1,4 @@
-# Elsock Controller *Java*
+# [Elsock Controller *Java*](https://github.com/offa/ElsockControllerJava)
 
 A controller library for [Elsock](https://github.com/forflo/arduino_elsock)-devices.
 
