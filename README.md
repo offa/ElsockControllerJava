@@ -6,7 +6,7 @@ A controller library for [Elsock](https://github.com/forflo/arduino_elsock)-devi
 
 ## Requirements
 
- * **JDK 7+** - Not tested with JDK6 or earlier
+ * **JDK 7+**
 
 ## Building
 
