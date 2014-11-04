@@ -13,6 +13,13 @@
     <name>ElsockController</name>
     <description>A controller library for Elsock-devices written in Java.</description>
     
+    <licenses>
+        <license>
+            <name>GNU General Public License (GPL)</name>
+            <url>http://www.gnu.org/licenses/gpl.html</url>
+        </license>
+    </licenses>
+    
     <build>
         <plugins>
             <plugin>
@@ -36,6 +43,7 @@
                     </execution>
                 </executions>
             </plugin>
+            
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
