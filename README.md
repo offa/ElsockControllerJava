@@ -47,7 +47,7 @@ System.out.println("Device #4: " + statusDev4.name()
 // Turn off all devices
 ec.sendCommand(Device.ALL, Status.OFF);
 ```
-*Don't forget to add **Elsock library**!*
+*Don't forget to add Elsock library!*
 
 
 ## License
